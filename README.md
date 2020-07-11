@@ -1,10 +1,8 @@
 <a href="http://https://www.udacity.com/"><img src="https://udacity-email.s3-us-west-2.amazonaws.com/MicrosoftML_FoundationCourse_Scholarship.jpg" title="Udacity Microsoft ML Scholarship"></a>
 
-# Microsoft-Udacity-ML-scholarship
+# [Microsoft-Udacity-ML-scholarship](https://www.udacity.com/scholarships/machine-learning-scholarship-microsoft-azure)
 
 > Repository for AZURE ML Scholarship provided by Udacity
-
-> One stop for Videos, Posts and Important Concepts
 
 ## Table of Contents
 
@@ -35,7 +33,7 @@
 
 > update and install this package first
 
-- For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
+- For all the possible languages that support syntax highlighting on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
 
 ---
 
