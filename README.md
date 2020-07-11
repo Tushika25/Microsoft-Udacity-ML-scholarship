@@ -81,6 +81,7 @@
 - https://www.linkedin.com/in/rutuja-kawade-6b7a8a171
 - https://www.linkedin.com/in/tushikasingh
 - https://www.linkedin.com/in/palak-rathi-b1a3a2170/
+- https://www.linkedin.com/in/shatakshi-pachori-a107a9179/
 ---
 
 ## FAQ
