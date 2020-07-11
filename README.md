@@ -81,6 +81,7 @@
 - https://www.linkedin.com/in/m4n15h
 - https://www.linkedin.com/in/ananyay-ankit-657037103
 - https://www.linkedin.com/in/rutuja-kawade-6b7a8a171
+- www.linkedin.com/in/tushikasingh
 ---
 
 ## FAQ
