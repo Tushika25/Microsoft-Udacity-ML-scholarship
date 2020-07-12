@@ -1,0 +1,38 @@
+For a more practical and simple way to understand machine learning;
+ML is simply about extracting knowledge from data.
+It is a special field that transcends through many other fields.
+Machine learning evolved from the intersection of statistics, artificial intelligence,
+and computer science. It is also known as predictive or statistical learning. 
+
+Different applications of Machine learning in the world today include;
+Auto recommendations of which movies to watch, food to order, products to buy, 
+recognizing friends in photos. Complex websites such as Facebook, Amazon or Netflix usually operate with machine learning algorithms.
+Scientific problems  such as understanding stars, finding distant planets, discovering new particles, analyzing DNA sequences,
+and PROVIDING personalized cancer treatments.
+Your application doesn’t need to be as large-scale or world-changing as these examples in order to benefit from machine learning, though. 
+Some practical applications of machine learning in our everyday life include moving of messages to a Spam folder in our Gmail, 
+detection of fraudulent activities online, recommendation of words while typing 
+
+The most successful kinds of machine learning algorithms are those that automate decision-making
+processes by generalizing from known examples. Machine learning is generally divided into supervised and Unsupervised learning.
+In supervised ML, the user provides the algorithm with pairs of inputs and desired outputs, and the algorithm finds a way to produce 
+the desired output given an input. In particular, the algorithm is able to create an output for an input it has never seen before
+without any help from a human. Going back to our example of spam classification, using machine learning, the user provides the algorithm 
+with a large number of emails (which are the input), together with information about
+whether any of these emails are spam (which is the desired output). Given a new email, the algorithm will then produce a prediction as to
+whether the new email is spam.
+Machine learning algorithms that learn from input/output pairs are called supervised learning algorithms because a “teacher” provides supervision
+to the algorithms in the form of the desired outputs for each example that they learn from. While creating a dataset of inputs and outputs is often 
+a laborious manual process, supervised learning algorithms are well understood and their performance is easy to measure. 
+Unsupervised algorithms are the other type of algorithm . In unsupervised learning, only the input data is known, and no known output data is given 
+to the algorithm. While there are many successful applications of these methods, they are usually harder to understand and evaluate.
+Examples of problems solved with unsupervised machine learning include Identifying topics in a set of blog posts, Segmenting customers into groups with similar 
+preferences, Detecting abnormal access patterns to a website. We also have reinforcement learning and deep learning as a branch of machine learning ; 
+they would be covered as we move up the ladder. 
+Happy learning! 
+
+Reference: Introduction to Machine Learning with python : a guide for data scientists by Andreas C. Müller and Sarah Guido. 
+
+
+
+  
