@@ -41,7 +41,7 @@
 ---
 ## Usage
 - Confused where to start using Tensorflow??
- Refer to https://www.tensorflow.org/learn so as to be confortable and start with tensorflow as per your requirements.
+Link: https://www.tensorflow.org/learn so as to be confortable and start with tensorflow as per your requirements.
 ---
 ## Documentation
 - For handwritten notes, please refer to this google drive folder
