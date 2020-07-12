@@ -1,0 +1,20 @@
+TRADITIONAL PROGRAMMING VS MACHINE LEARNING:
+
+When it comes to using computer to perform tasks on behalf of humans, we always need to give instructions to the computer in form of a computer program.
+Most programming frameworks are about breaking down the main task into composable problems.
+
+Traditional programming languages typically take data and (business or solution) rules as input and apply the rules to the data in order to come up with answers as output. 
+For example, a traditionally programmed sales analysis application will read in sales data along with (business or sales) rules, and then apply those rules to the data and output the key trends, analytics or insights.
+Traditional programming is a manual process—meaning a person (programmer) creates the program.
+But without anyone programming the logic, one has to manually formulate or code rules.
+
+
+On the other hand, in machine learning paradigm the data and answers (or labels) go in as input and the learned rules (models) come out as output.
+Machine learning paradigm is uniquely valuable because it lets computer to learn new rules in complex and high dimensional space, a space harder to comprehend by humans.
+For example, we can write traditional computer program for activity recognition (walking, running, or biking) from person's speed (data) and definition of (walk, run and biking) activity based on speed (rules).
+However, the problem with this approach is that different people walk, run and bike at different speeds depending upon age, environment, health etc.
+If you have to solve same problem in machine learning paradigm, we would get lots of examples of activities along with their labels (answers i.e. type of activity) and then learn or infer the rules to predict activity in future.
+Unlike traditional programming, machine learning is an automated process. 
+It can increase the value of your embedded analytics in many areas, including data prep, natural language interfaces, automatic outlier detection, recommendations, and causality and significance detection.
+All of these features help speed user insights and reduce decision bias.
+
