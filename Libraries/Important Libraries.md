@@ -10,7 +10,7 @@ it would be good to recognize this as a popular machine learning library.
 ### Python
 
 * Python is a very popular high-level programming language that is great for data science. 
-* Its ease of use and wide support within popular machine learning platforms, coupled with a large catalog of ML libraries,  has made it a leader in this space.
+* Its ease of use and wide support within popular machine learning platforms, coupled with a large catalog of ML libraries,  has made it a leader in this space. It's a great tool to start with and preferred over many offline platforms like anaconda and online platforms like colab.
 
 #### Pandas and Numpy
 
