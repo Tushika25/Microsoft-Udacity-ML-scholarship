@@ -40,6 +40,8 @@
 ## Features
 ---
 ## Usage
+- Confused where to start using Tensorflow??
+- Refer to https://www.tensorflow.org/learn so as to be confortable and start with tensorflow as per your requirements.
 ---
 ## Documentation
 ---
