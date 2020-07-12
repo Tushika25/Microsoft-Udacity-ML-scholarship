@@ -44,7 +44,8 @@
  Refer to https://www.tensorflow.org/learn so as to be confortable and start with tensorflow as per your requirements.
 ---
 ## Documentation
----
+- For handwritten notes, please refer to this google drive folder
+- Refer to https://drive.google.com/drive/folders/1Ujvu7aAFRLvAsLaj1uOfpI7GmCCr9xei?usp=sharing 
 ## Tests
 - Going into more detail on code and technologies used
 - I utilized this nifty <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
