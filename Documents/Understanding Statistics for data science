@@ -1,0 +1,138 @@
+Do you want to learn statistics for data science without taking a slow and expensive course? Goods news… You can master the core concepts, probability, Bayesian thinking, and even statistical machine learning using only free online resources. Here are the best resources for self-starters!
+
+By the way… you don’t need a math degree to succeed with this approach. Yet, if you do have a math background, you’ll definitely enjoy this fun, hands-on method too.
+
+This guide will equip you with the tools of statistical thinking needed for data science. It will arm you with a huge advantage over other aspiring data scientists who try to get by without it.
+
+You see, it can be tempting to jump directly into using machine learning packages once you’ve learned how to program… And you know what? It’s ok if you want to initially get the ball rolling with real projects.
+
+But, you should never, ever completely skip learning statistics and probability theory. It’s essential to progressing your career as a data scientist.
+
+Here’s why…
+
+Statistics Needed for Data Science
+Statistics is a broad field with applications in many industries.
+
+Wikipedia defines it as the study of the collection, analysis, interpretation, presentation, and organization of data. Therefore, it shouldn’t be a surprise that data scientists need to know statistics.
+
+Statistics Word Cloud
+Word cloud credit: Cal. State University
+
+For example, data analysis requires descriptive statistics and probability theory, at a minimum. These concepts will help you make better business decisions from data.
+
+Key concepts include probability distributions, statistical significance, hypothesis testing, and regression.
+
+Furthermore, machine learning requires understanding Bayesian thinking. Bayesian thinking is the process of updating beliefs as additional data is collected, and it's the engine behind many machine learning models.
+
+Key concepts include conditional probability, priors and posteriors, and maximum likelihood.
+
+If those terms sound like mumbo jumbo to you, don't worry. This will all make sense once you roll up your sleeves and start learning.
+
+The Best Way to Learn to Statistics for Data Science
+By now, you've probably noticed that one common theme in "the self-starter way to learning X" is to skip classroom instruction and learn by "doing sh*t."
+
+Mastering statistics for data science is no exception.
+
+In fact, we're going to tackle key statistical concepts by programming them with code! Trust us... this will be super fun.
+
+If you do not have formal math training, you'll find this approach much more intuitive than trying to decipher complicated formulas. It allows you to think through the logical steps of each calculation.
+
+If you do have a formal math background, this approach will help you translate theory into practice and give you some fun programming challenges.
+
+Here are the 3 steps to learning the statistics and probability required for data science:
+
+1
+Core Statistics Concepts
+
+Descriptive statistics, distributions, hypothesis testing, and regression.
+
+2
+Bayesian Thinking
+
+Conditional probability, priors, posteriors, and maximum likelihood.
+
+3
+Intro to Statistical Machine Learning
+
+Learn basic machine concepts and how statistics fits in.
+
+After completing these 3 steps, you'll be ready to attack more difficult machine learning problems and common real-world applications of data science.
+
+Step 1: Core Statistics Concepts
+To know how to learn statistics for data science, it's helpful to start by looking at how it will be used.
+
+Let's take a look as some examples of real analyses or applications you might need to implement as a data scientist:
+
+Experimental design: Your company is rolling out a new product line, but it sells through offline retail stores. You need to design an A/B test that controls for differences across geographies. You also need to estimate how many stores to pilot in for statistically significant results.
+Regression modeling: Your company needs to better predict the demand of individual product lines in its stores. Under-stocking and over-stocking are both expensive. You consider building a series of regularized regression models.
+Data transformation: You have multiple machine learning model candidates you're testing. Several of them assume specific probability distributions of input data, and you need to be able to identify them and either transform the input data appropriately or know when underlying assumptions can be relaxed.
+A data scientist makes hundreds of decisions every day. They range from small ones like how to tune a model all the way up big ones like the team's R&D strategy.
+
+Many of these decisions require a strong foundation in statistics and probability theory.
+
+For example, data scientists often need to decide which results are believable and which are bullshit likely due to randomness. Plus, they need to know if there are pockets of interest that should be explored further.
+
+These are central skills in analytical decision making (knowing how to calculate p-values is only scratching the surface).
+
+Here's one of the best resources we've found for learning basic statistics as a self-starter:
+
+ 
+Think like a statistician...
+Think Stats is an excellent book (with free PDF version) introducing all the key concepts. The premise of the book? If you know how to program, then you can use that skill to teach yourself statistics. We've found this approach to be very effective, even for those with formal math backgrounds.
+
+Step 2: Bayesian Thinking
+One of the philosophical debates in statistics is between Bayesians and frequentists. The Bayesian side is more relevant when learning statistics for data science.
+
+In a nutshell, frequentists use probability only to model sampling processes. This means they only assign probabilities to describe data they've already collected.
+
+On the other hand, Bayesians use probability to model sampling processes and to quantify uncertainty before collecting data. If you'd like to learn more about this divide, check out this Quora post: For a non-expert, what's the difference between Bayesian and frequentist approaches?
+
+In Bayesian thinking, the level of uncertainty before collecting data is called the prior probability. It's then updated to a posterior probability after data is collected. This is a central concept to many machine learning models, so it's important to master.
+
+Again, all of these concepts will make sense once you implement them.
+
+Here's one of the best resources we've found for learning Bayesian thinking as a self-starter:
+
+ 
+Think like a Bayesian...
+Think Bayes is the follow-up book (with free PDF version) of Think Stats. It's all about Bayesian thinking, and it uses the same approach of using programming to teach yourself statistics. This approach is fun and intuitive, and you'll learn each concept's underlying mechanics well since you'll be implementing them.
+
+Step 3: Intro to Statistical Machine Learning
+If you want to learn statistics for data science, there's no better way than playing with statistical machine learning models after you've learned core concepts and Bayesian thinking.
+
+The statistics and machine learning fields are closely linked, and "statistical" machine learning is the main approach to modern machine learning.
+
+In this step, you'll be implementing a few machine learning models from scratch. This will help you unlock true understanding of their underlying mechanics.
+
+At this stage, it's fine if you're just copying code, line-by-line.
+
+This helps you break open the black box of machine learning while solidifying your understanding of the applied statistics required for data science.
+
+The following models were chosen because they illustrate several of the key concepts from earlier.
+
+Linear Regression
+
+First, we have the poster child of predictive modeling...
+
+Linear Regression from Scratch in Python
+Naive Bayes Classifier
+
+Next, we have an embarrassingly simple model that works pretty darn well...
+
+Intuitive Introduction, Naive Bayes from Scratch in Python
+Multi-Armed Bandits
+
+And finally, we have the famous "20 lines of code that beat any A/B test!"
+
+Intuitive Introduction, Multi-Armed Bandits from Scratch in Python
+If you're hungry for more, we recommend the following resource. We'll also be coming out with a detailed guide for learning machine learning the self-starter way, so stay tuned.
+
+ 
+For your reference...
+Introduction to Statistical Machine Learning is a wonderful textbook (with free PDF version) that you can use as a reference. The examples are in R, and the book covers a much broader range of topics, making this a valuable tool as you progress into more work in machine learning.
+
+More Resources
+How to Learn Math for Data Science, The Self-Starter Way
+Fun Machine Learning Projects for Beginners
+
+credits: elitedatascience
