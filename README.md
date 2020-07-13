@@ -10,6 +10,7 @@
 
 - [Installation](#installation)
 - [Features](#features)
+- [Prerequisite](#prerequisite)
 - [Contributing](#contributing)
 - [Team](#team)
 - [FAQ](#faq)
