@@ -10,6 +10,7 @@
 
 - [Installation](#installation)
 - [Features](#features)
+- [Prerequisite](#prerequisite)
 - [Contributing](#contributing)
 - [Team](#team)
 - [FAQ](#faq)
@@ -39,16 +40,29 @@
 
 ## Features
 ---
-## Usage
+## PREREQUISITE
+- How to create a **Pull Request?** Get yourself comfortable by following the steps as given here: https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
 - Confused where to start using Tensorflow??
  Refer to https://www.tensorflow.org/learn so as to be confortable and start with tensorflow as per your requirements.
 ---
 ## Documentation
 - For handwritten notes, please refer to this google drive folder
 Link: https://drive.google.com/drive/folders/1Ujvu7aAFRLvAsLaj1uOfpI7GmCCr9xei?usp=sharing 
+
 ## Tests
 - Going into more detail on code and technologies used
 - I utilized this nifty <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
+---
+
+## Video Links
+
+- Machine Learning
+
+1. Python Programming: https://drive.google.com/drive/folders/1wOz6VpEbVRMH1zIC0_Rlb_hJYatjUG4n?usp=sharing
+
+- Microsoft Azure
+
+
 ---
 
 ## Contributing
