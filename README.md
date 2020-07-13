@@ -39,8 +39,8 @@
 
 ## Features
 ---
-## Usage
-- Facing difficulty on how to create a Pull Request?? Get yourself comfortable by following the steps as given here: https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
+## PREREQUISITE
+- How to create a **Pull Request?** Get yourself comfortable by following the steps as given here: https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
 - Confused where to start using Tensorflow??
  Refer to https://www.tensorflow.org/learn so as to be confortable and start with tensorflow as per your requirements.
 ---
