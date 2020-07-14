@@ -44,6 +44,7 @@
 - How to create a **Pull Request?** Get yourself comfortable by following the steps as given here: https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
 - Confused where to start using Tensorflow??
  Refer to https://www.tensorflow.org/learn so as to be confortable and start with tensorflow as per your requirements.
+- Use https://docs.microsoft.com/en-us/learn/azure/ to learn and explore more on Azure. 
 ---
 ## Documentation
 - For handwritten notes, please refer to this google drive folder
