@@ -48,9 +48,9 @@ So, please join us in this amazing community of learning and sharing #weareintot
 ---
 ## PREREQUISITE
 
-- How to start working on Github?? **New to GitHub??** Get yourself comforatble by following the tutorials below:
-  1. GitHub using Git Bash => https://www.youtube.com/watch?v=2vASHVT0qKc&feature=youtu.be
-  2. Github using GitHub Desktop => https://www.youtube.com/watch?v=77W2JSL7-r8&feature=youtu.be
+- **New to GitHub??** Get yourself comforatable by following the tutorials below:
+  1. GitHub using Git Bash: https://www.youtube.com/watch?v=SWYqp7iY_Tc&feature=youtu.be
+  2. Github using GitHub Desktop: https://www.youtube.com/watch?v=77W2JSL7-r8&feature=youtu.be
   
 - How to create a **Pull Request?** Get yourself comfortable by following the steps as given here: https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
 
