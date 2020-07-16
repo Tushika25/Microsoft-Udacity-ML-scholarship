@@ -1,4 +1,10 @@
+Welcome to the United Repository! We hope you'll find the material on this repository helpful and we also hope you'll share your amazing material related to Data Science, Machine Learning, Deep Learning, Natural Language Processing, and Microsoft Azure here! The major motive of this repository is to help every interested learner may be a rookie or a master by sharing the knowledge we have acquired so far!! There are no such restrictions regarding the content you want to share likewise it can be informative PDFs, Videos, Codes, notes that we make while studying our #50daysofudacity, or anything that you think can be insightful or helpful. 
+Perks of contributing 😉👉 We'll be tagging you on Slack to appreciate your contribution towards learning!! 
+
+So, please join us in this amazing community of learning and sharing #weareintothistogether!
+
 <a href="http://https://www.udacity.com/"><img src="https://udacity-email.s3-us-west-2.amazonaws.com/MicrosoftML_FoundationCourse_Scholarship.jpg" title="Udacity Microsoft ML Scholarship"></a>
+
 
 # [Microsoft-Udacity-ML-scholarship](https://www.udacity.com/scholarships/machine-learning-scholarship-microsoft-azure)
 
