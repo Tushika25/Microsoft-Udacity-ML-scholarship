@@ -100,6 +100,7 @@ Link: https://drive.google.com/drive/folders/1Ujvu7aAFRLvAsLaj1uOfpI7GmCCr9xei?u
 - https://www.linkedin.com/in/tushikasingh
 - https://www.linkedin.com/in/palak-rathi-b1a3a2170/
 - https://www.linkedin.com/in/shatakshi-pachori-a107a9179/
+- https://www.linkedin.com/in/divyanshi-parashar-a6332818b/
 ---
 
 ## FAQ
