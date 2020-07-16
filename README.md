@@ -47,7 +47,13 @@ So, please join us in this amazing community of learning and sharing #weareintot
 ## Features
 ---
 ## PREREQUISITE
+
+- How to start working on Github?? **New to GitHub??** Get yourself comforatble by following the tutorials below:
+  1. GitHub using Git Bash => https://www.youtube.com/watch?v=2vASHVT0qKc&feature=youtu.be
+  2. Github using GitHub Desktop => https://www.youtube.com/watch?v=77W2JSL7-r8&feature=youtu.be
+  
 - How to create a **Pull Request?** Get yourself comfortable by following the steps as given here: https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
+
 - Confused where to start using Tensorflow??
  Refer to https://www.tensorflow.org/learn so as to be confortable and start with tensorflow as per your requirements.
 - Use https://docs.microsoft.com/en-us/learn/azure/ to learn and explore more on Azure. 
