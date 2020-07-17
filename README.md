@@ -14,6 +14,7 @@ So, please join us in this amazing community of learning and sharing #weareintot
 
 > If your `README` has a lot of info, section headers might be nice.
 
+- [All the Lessons](https://github.com/Divan009/Microsoft-Azure-ML-Scholarship/blob/master/README.md)
 - [Installation](#installation)
 - [Features](#features)
 - [Prerequisite](#prerequisite)
@@ -22,7 +23,7 @@ So, please join us in this amazing community of learning and sharing #weareintot
 - [FAQ](#faq)
 - [Support](#support)
 - [License](#license)
-- [All the Lessons](https://github.com/Divan009/Microsoft-Azure-ML-Scholarship/blob/master/README.md)
+
 ---
 
 ## Example
