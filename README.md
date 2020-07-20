@@ -65,6 +65,9 @@ So, please join us in this amazing community of learning and sharing #weareintot
  
 - Use https://docs.microsoft.com/en-us/learn/azure/ to learn and explore more on Azure.
 
+- For digital notes, please refer to this google drive folder
+Link: https://drive.google.com/drive/folders/1N1FAhOFO24fyJ--SI4Sj5XqNEVoCG1kn?usp=sharing 
+
 - For handwritten notes, please refer to this google drive folder
 Link: https://drive.google.com/drive/folders/1Ujvu7aAFRLvAsLaj1uOfpI7GmCCr9xei?usp=sharing 
 
