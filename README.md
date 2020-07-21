@@ -71,6 +71,9 @@ Link: https://drive.google.com/drive/folders/1N1FAhOFO24fyJ--SI4Sj5XqNEVoCG1kn?u
 - For handwritten notes, please refer to this google drive folder
 Link: https://drive.google.com/drive/folders/1Ujvu7aAFRLvAsLaj1uOfpI7GmCCr9xei?usp=sharing 
 
+-For beginners who want to get started with Machine learning basics and important libraries please check out this amazing course by Lazy programmer:
+Link: https://deeplearningcourses.com/c/deep-learning-prerequisites-the-numpy-stack-in-python
+
 ## Tests
 - Going into more detail on code and technologies used
 - I utilized this nifty <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
