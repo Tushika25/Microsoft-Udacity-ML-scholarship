@@ -1,0 +1,224 @@
+Introduction to ML
+
+Machine learning is a data science technique used to extract patterns from data, allowing computers to identify related data, and forecast future outcomes, behaviors, and trends.
+
+Examples of Applied Machine Learning
+Automate the recognition of disease
+Trained physicians can only review and evaluate a limited volume of patients or patient images (X-rays, sonograms, etc.). Machine learning can be used to spot the disease, hence reducing physician burnout. For example, Google has trained a deep learning model to detect breast cancer and Stanford researchers have used deep learning models to diagnose skin cancer.
+
+Recommend next best actions for individual care plans
+With the mass digitization of patient data via systems that use EMRs (Electronic Medical Records) and EHRs (Electronic Health Records), machine learning can be used to help build effective individual care plans. For example, IBM Watson Oncology can help clinicians explore potential treatment options. More examples of how machine learning impacts healthcare can be found here.
+
+Enable personalized, real-time banking experiences with chatbots
+You've likely encountered this when you call a customer service number. Machine learning can be used to intercept and handle common, straightforward issues through chat and messaging services, so customers can quickly and independently resolve simple issues that would otherwise have required human intervention. With the chatbot, a customer can simply type in a question and the bot engages to surface the answer. Refer to this article to find more information about chatbot powered machine learning.
+
+Identify the next best action for the customer
+Real-time insights that incorporate machine learning tools—such as sentiment analysis—can help organizations assess the likelihood of a deal closing or the level of a customer’s loyalty. Personally-tailored recommendations powered by machine learning can engage and delight customers with information and offers that are relevant to them.
+
+Capture, prioritize, and route service requests to the correct employee, and improve response times
+A busy government organization gets innumerable service requests on an annual basis. Machine learning tools can help to capture incoming service requests, to route them to the correct employee in real-time, to refine prioritization, and improve response times. Can check out this article if you're curious to learn more about ticket routing.
+
+
+The Data Science Process
+Big data has become part of the lexicon of organizations worldwide, as more and more organizations look to leverage data to drive informed business decisions. With this evolution in business decision-making, the amount of raw data collected, along with the number and diversity of data sources, is growing at an astounding rate. This data presents enormous potential.
+Raw data, however, is often noisy and unreliable and may contain missing values and outliers. Using such data for modeling can produce misleading results. For the data scientist, the ability to combine large, disparate data sets into a format more appropriate for analysis is an increasingly crucial skill.
+The data science process typically starts with collecting and preparing the data before moving on to training, evaluating, and deploying a model.
+
+Common Types of Data
+Numerical data
+Time-series data
+Tabular data
+Image data
+Text data 
+
+2 perspective of ML
+Computer science vs. Statistical perspective
+In computer science:
+-We are using input features to create a program that can generate the desired output.
+-By selecting data row or column wise
+
+In contrast, statistics might be inclined to say something more like:
+-We are trying to find a mathematical function that, given the values of the independent variables can predict the values of the dependent variables.
+-Output Variable = f(Input Variables)
+-Dependent Variable = f(Independent Variables)
+
+The tools for Machine learning:
+Libraries
+Cloud services
+
+Models vs Algorithms
+-Models are the specific representations learned from data
+-Algorithms are the processes of learning
+-Model=Algorithm(Data)
+
+Linear Regression
+linear regression is an algorithm that uses a straight line (or plane) to describe relationships between variables.
+y=mx+b
+In algebraic terms, we may refer to mm as the coefficient of x or simply the slope of the line, and we may call bb the y-intercept. In machine learning, you will typically see the y-intercept referred to as the bias. In machine learning, you will also often see the equation represented using different variables, as in:
+
+y = B_0 + B_1*xy=B0+B1∗x
+The letters are different and the order has been changed, but it is exactly the same equation. Thus, we can see that what we know from algebra as the basic equation for a line is also, in machine learning, the equation used for simple linear regression.
+
+Multiple Linear Regression
+In more complex cases where there is more than one input variable, we might see something like this:
+y = B_0 + B_1*x_1 + B_2*x_2 + B_3*x_3 ... + B_n *x_ny=B 
+
+Training a Linear Regression Model:
+To "train a linear regression model" simply means to learn the coefficients and bias that best fit the data. This is the purpose of the linear regression algorithm. Here we will give you a high-level introduction so that you understand conceptually how it works, but we will not go into the mathematical details.
+
+The Cost Function
+Notice from our example of test scores earlier that the line we came up with did not perfectly fit the data. In fact, most of the data points were not on the line! When we predict that a student who studies for 10 hours will get a score of 153, we do not expect their score to be exactly 153. Put another way, when we make a prediction using the line, we expect the prediction to have some error.
+
+The process of finding the best model is essentially a process of finding the coefficients and bias that minimize this error. To calculate this error, we use a cost function. There are many cost functions you can choose from to train a model and the resulting error will be different depending one which cost function you choose. The most commonly used cost function for linear regression is the root mean squared error (RMSE)
+
+Preparing the Data:
+There are several assumptions or conditions you need to keep in mind when you use the linear regression algorithm. If the raw data does not meet these assumptions, then it needs to be prepared and transformed prior to use.
+
+Linear assumption: As we've said earlier, linear regression describes variables using a line. So the relationship between the input variables and the output variable needs to be a linear relationship. If the raw data does not follow a linear relationship, you may be able to transform) your data prior to using it with the linear regression algorithm. For example, if your data has an exponential relationship, you can use log transformation.
+Remove collinearity: When two variables are collinear, this means they can be modeled by the same line or are at least highly correlated; in other words, one input variable can be accurately predicted by the other. For example, suppose we want to predict education level using the input variables number of years studying at school, if an individual is male, and if an individual is female. In this case, we will see collinearity—the input variable if an individual is female can be perfectly predicted by if an individual is male, thus, we can say they are highly correlated. Having highly correlated input variables will make the model less consistent, so it's important to perform a correlation check among input variables and remove highly correlated input variables.
+Gaussian (normal) distribution: Linear regression assumes that the distance between output variables and real data (called residual) is normally distributed. If this is not the case in the raw data, you will need to first transform the data so that the residual has a normal distribution.
+Rescale data: Linear regression is very sensitive to the distance among data points, so it's always a good idea to normalize or standardize the data.
+Remove noise: Linear regression is very sensitive to noise and outliers in the data. Outliers will significantly change the line learned, as shown in the picture below. Thus, cleaning the data is a critical step prior to applying linear regression.
+
+
+Calculating the Coefficients
+We've discussed here the overall concept of training a linear regression model: We take the general equation for a line and use some data to learn the coefficients for a specific line that will best fit the data. Just so that you have an idea of what this looks like in concrete terms, let's look at the formulas used to calculate the coefficients. We're showing these in order to give you a general idea of what the calculations actually involve on a concrete level. For this course, you do not need to worry about how the formulas are derived and how to use them to calculate the coefficients.
+The formula for getting the slope of the line looks something like this:
+Formula for calculating slope.
+To get the intercept, we calculate:
+Formula for calculating the intercept.
+And to get the root mean squared error (RMSE), we have:
+
+Formula for calculating RMSE.
+In most machine learning libraries (such as Sklearn or Pythorch) the inner workings of the linear regression algorithm are implemented for you. The error and the best coefficients will be automatically calculated when you input the data. Here, the important thing is to understand what is happening conceptually—namely, that we choose a cost function (like RMSE) to calculate the error and then minimize that error in order to arrive at a line of best fit that models the training data and can be used to make predictions.
+
+Learning function:
+Y=f(X)
+Y=f(X)+e
+
+Parametric vs. Non-parametric:
+Based on the assumptions about the shape and structure of the function they try to learn, machine learning algorithms can be divided into two categories: parametric and nonparametric.
+
+Parametric Machine Learning Algorithms:
+Parametric machine learning algorithms make assumptions about the mapping function and have a fixed number of parameters. No matter how much data is used to learn the model, this will not change how many parameters the algorithm has. With a parametric algorithm, we are selecting the form of the function and then learning its coefficients using the training data.
+An example of this would be the approach used in linear regression algorithms, where the simplified functional form can be something like:
+B_0 + B_1 * X_1 + B_2 * X_2 = 0B+B1∗X1+B2∗X2=0
+This assumption greatly simplifies the learning process; after selecting the initial function, the remaining problem is simply to estimate the coefficients B0, B1, and B2 using different samples of input variables X1 and X2.
+
+Benefits:
+Simpler and easier to understand; easier to interpret the results
+Faster when talking about learning from data
+Less training data required to learn the mapping function, working well even if the fit to data is not perfect
+
+Limitations:
+Highly constrained to the specified form of the simplified function
+Limited complexity of the problems they are suitable fo
+Poor fit in practice, unlikely to match the underlying mapping function.
+Non-parametric Machine Learning Algorithms
+Non-parametric algorithms do not make assumptions regarding the form of the mapping function between input data and output. Consequently, they are free to learn any functional form from the training data.
+
+K-nearest neighbors (KNN) algorithm:
+KNN does not make any assumptions about the functional form, but instead uses the pattern that points have similar output when they are close.
+
+Benefits:
+High flexibility, in the sense that they are capable of fitting a large number of functional forms
+Power by making weak or no assumptions on the underlying function
+High performance in the prediction models that are produced
+
+Limitations:
+More training data is required to estimate the mapping function
+Slower to train, generally having far more parameters to train
+Overfitting the training data is a risk; overfitting makes it harder to explain the resulting predictions
+
+Classical ML vs. Deep Learning:
+Deep learning algorithms are based on neural networks and the classical ML algorithms are based on classical mathematical algorithms, such as linear regression, logistic regression, decision tree, SVM, and so on.
+
+Deep learning advantages:
+Suitable for high complexity problems
+Better accuracy, compared to classical ML
+Better support for big data
+Complex features can be learned
+
+Deep learning disadvantages:
+Difficult to explain trained data
+Require significant computational power
+
+Classical ML advantages:
+More suitable for small data
+Easier to interpret outcomes
+Cheaper to perform
+Can run on low-end machines
+Does not require large computational power
+
+Classical ML disadvantages:
+Difficult to learn large datasets
+Require feature engineering
+Difficult to learn complex functions
+
+Approaches to Machine Learning
+There are three main approaches to machine learning:
+Supervised learning
+Unsupervised learning
+Reinforcement learning
+
+Supervised learning
+Learns from data that contains both the inputs and expected outputs (e.g., labeled data). Common types are:
+
+Classification: Outputs are categorical.
+Regression: Outputs are continuous and numerical.
+Similarity learning: Learns from examples using a similarity function that measures how similar two objects are.
+Feature learning: Learns to automatically discover the representations or features from raw data.
+Anomaly detection: A special form of classification, which learns from data labeled as normal/abnormal.
+Unsupervised learning
+Learns from input data only; finds hidden structure in input data.
+
+Clustering: Assigns entities to clusters or groups.
+Feature learning: Features are learned from unlabeled data.
+Anomaly detection: Learns from unlabeled data, using the assumption that the majority of entities are normal.
+Reinforcement learning
+Learns how an agent should take action in an environment in order to maximize a reward function.
+
+Markov decision process: A mathematical process to model decision-making in situations where outcomes are partly random and partly under the control of a decision-maker. Does not assume knowledge of an exact mathematical model.
+The main difference between reinforcement learning and other machine learning approaches is that reinforcement learning is an active process where the actions of the agent influence the data observed in the future, hence influencing its own potential future states. In contrast, supervised and unsupervised learning approaches are passive processes where learning is performed without any actions that could influence the data.
+
+The Trade-Offs
+As all things in computer science, machine learning involves certain trade-offs. Two of the most important are bias vs. variance and overfitting vs. underfitting.
+
+Bias vs. Variance
+Bias measures how inaccurate the model prediction is in comparison with the true output. It is due to erroneous assumptions made in the machine learning process to simplify the model and make the target function easier to learn. High model complexity tends to have a low bias.
+
+Variance measures how much the target function will change if different training data is used. Variance can be caused by modeling the random noise in the training data. High model complexity tends to have a high variance.
+
+As a general trend, parametric and linear algorithms often have high bias and low variance, whereas non-parametric and non-linear algorithms often have low bias and high variance
+
+Overfitting vs. Underfitting
+Overfitting refers to the situation in which models fit the training data very well, but fail to generalize to new data.
+
+Underfitting refers to the situation in which models neither fit the training data nor generalize to new data.
+
+Bias vs. Variance Trade-off:
+The prediction error can be viewed as the sum of model error (error coming from the model) and the irreducible error (coming from data collection).
+
+prediction error = Bias error + variance + error + irreducible error
+Low bias means fewer assumptions about the target function. Some examples of algorithms with low bias are KNN and decision trees. Having fewer assumptions can help generalize relevant relations between features and target outputs. In contrast, high bias means more assumptions about the target function. Linear regression would be a good example (e.g., it assumes a linear relationship). Having more assumptions can potentially miss important relations between features and outputs and cause underfitting.
+
+Low variance indicates changes in training data would result in similar target functions. For example, linear regression usually has a low variance. High variance indicates changes in training data would result in very different target functions. For example, support vector machines usually have a high variance. High variance suggests that the algorithm learns the random noise instead of the output and causes overfitting.
+
+Generally, increasing model complexity would decrease bias error since the model has more capacity to learn from the training data. But the variance error would increase if the model complexity increases, as the model may begin to learn from noise in the training data.
+
+The goal of training machine learning models is to achieve low bias and low variance. The optimal model complexity is where bias error crosses with variance error.
+
+
+Overfitting vs. Underfitting
+k-fold cross-validation: it split the initial training data into k subsets and train the model k times. In each training, it uses one subset as the testing data and the rest as training data.
+hold back a validation dataset from the initial training data to estimatete how well the model generalizes on new data.
+simplify the model. For example, using fewer layers or less neurons to make the neural network smaller.
+use more data.
+reduce dimensionality in training data such as PCA: it projects training data into a smaller dimension to decrease the model complexity.
+Stop the training early when the performance on the testing dataset has not improved after a number of training iterations.
+
+
+
+
+
+
