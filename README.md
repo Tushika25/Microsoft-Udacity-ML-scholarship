@@ -114,7 +114,7 @@ Link: https://deeplearningcourses.com/c/deep-learning-prerequisites-the-numpy-st
 
 ## Team
 > Contributors/People
-- https://www.linkedin.com/in/divajain9
+- https://www.linkedin.com/in/divadugar
 - https://www.linkedin.com/in/nagaraj-amarnath
 - https://www.linkedin.com/in/swagatmohanty1996
 - https://www.linkedin.com/in/snehithallamraju
