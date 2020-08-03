@@ -1,4 +1,11 @@
+**Welcome to the United Repository!** 
+We hope that you find the material in this repository helpful and that you'll share your own amazing material related to Data Science, Machine Learning, Deep Learning, Natural Language Processing, and Microsoft Azure! The main goal of this repository is to help every interested learner, be they rookie or master, by sharing the knowledge we as a group have acquired so far!! There are no restrictions regarding the content that you share; it can be informative PDFs, videos (we prefer that you just post the link rather than uploading the actual video), code, notes that you made while studying our #50daysofudacity, or anything that you think would be insightful or helpful. 
+Perks of contributing 😉👉 We'll be tagging you on Slack to show our appreciation for your contribution toward learning!! 
+
+So, please join us in this amazing community of learning and sharing #weareintothistogether!
+
 <a href="http://https://www.udacity.com/"><img src="https://udacity-email.s3-us-west-2.amazonaws.com/MicrosoftML_FoundationCourse_Scholarship.jpg" title="Udacity Microsoft ML Scholarship"></a>
+
 
 # [Microsoft-Udacity-ML-scholarship](https://www.udacity.com/scholarships/machine-learning-scholarship-microsoft-azure)
 
@@ -8,6 +15,7 @@
 
 > If your `README` has a lot of info, section headers might be nice.
 
+- [All the Lessons](https://github.com/Divan009/Microsoft-Azure-ML-Scholarship/blob/master/README.md)
 - [Installation](#installation)
 - [Features](#features)
 - [Prerequisite](#prerequisite)
@@ -16,6 +24,7 @@
 - [FAQ](#faq)
 - [Support](#support)
 - [License](#license)
+
 ---
 
 ## Example
@@ -41,14 +50,29 @@
 ## Features
 ---
 ## PREREQUISITE
+
+- **New to GitHub??** Get yourself comforatable by following the tutorials below:
+  1. GitHub using Git Bash: https://www.youtube.com/watch?v=SWYqp7iY_Tc&feature=youtu.be
+  2. Github using GitHub Desktop: https://www.youtube.com/watch?v=77W2JSL7-r8&feature=youtu.be
+  
 - How to create a **Pull Request?** Get yourself comfortable by following the steps as given here: https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
-- Confused where to start using Tensorflow??
- Refer to https://www.tensorflow.org/learn so as to be confortable and start with tensorflow as per your requirements.
-- Use https://docs.microsoft.com/en-us/learn/azure/ to learn and explore more on Azure. 
+
 ---
 ## Documentation
+
+- Confused where to start using Tensorflow??
+ Refer to https://www.tensorflow.org/learn so as to be confortable and start with tensorflow as per your requirements.
+ 
+- Use https://docs.microsoft.com/en-us/learn/azure/ to learn and explore more on Azure.
+
+- For digital notes, please refer to this google drive folder
+Link: https://drive.google.com/drive/folders/1N1FAhOFO24fyJ--SI4Sj5XqNEVoCG1kn?usp=sharing 
+
 - For handwritten notes, please refer to this google drive folder
 Link: https://drive.google.com/drive/folders/1Ujvu7aAFRLvAsLaj1uOfpI7GmCCr9xei?usp=sharing 
+
+-For beginners who want to get started with Machine learning basics and important libraries please check out this amazing course by Lazy programmer:
+Link: https://deeplearningcourses.com/c/deep-learning-prerequisites-the-numpy-stack-in-python
 
 ## Tests
 - Going into more detail on code and technologies used
@@ -90,7 +114,7 @@ Link: https://drive.google.com/drive/folders/1Ujvu7aAFRLvAsLaj1uOfpI7GmCCr9xei?u
 
 ## Team
 > Contributors/People
-- https://www.linkedin.com/in/divajain9
+- https://www.linkedin.com/in/divadugar
 - https://www.linkedin.com/in/nagaraj-amarnath
 - https://www.linkedin.com/in/swagatmohanty1996
 - https://www.linkedin.com/in/snehithallamraju
@@ -101,8 +125,8 @@ Link: https://drive.google.com/drive/folders/1Ujvu7aAFRLvAsLaj1uOfpI7GmCCr9xei?u
 - https://www.linkedin.com/in/palak-rathi-b1a3a2170/
 - https://www.linkedin.com/in/shatakshi-pachori-a107a9179/
 - https://www.linkedin.com/in/divyanshi-parashar-a6332818b/
+- https://www.linkedin.com/in/aditichadha1/
 ---
-
 ## FAQ
 
 ---
