@@ -1,0 +1,1 @@
+These notebooks complement some notes in the Notes folder, although they can also be used by themselves if you wish. They explain some concepts of probability and statistics that require visualization.
