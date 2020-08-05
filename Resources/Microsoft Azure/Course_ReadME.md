@@ -687,3 +687,99 @@
  </a> 
  </div>
 
+#### 5-0 Lesson Overview
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=1HmKrd2a2_8"> 
+<img src="https://img.youtube.com/vi/1HmKrd2a2_8/0.jpg" alt="5-0 Lesson Overview" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-1 Classical Machine Learning vs. Deep Learning
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=-n9joiAbG-g"> 
+<img src="https://img.youtube.com/vi/-n9joiAbG-g/0.jpg" alt="5-1 Classical Machine Learning vs. Deep Learning" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-2 A More Detailed Comparison
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=E6wi222GVUo"> 
+<img src="https://img.youtube.com/vi/E6wi222GVUo/0.jpg" alt="5-2 A More Detailed Comparison" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-3 What is Deep Learning?
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=pkqVrJ_wVGk"> 
+<img src="https://img.youtube.com/vi/pkqVrJ_wVGk/0.jpg" alt="5-3 What is Deep Learning?" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-4 What is Deep Learning? (1)
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=Lol7o0hihMU"> 
+<img src="https://img.youtube.com/vi/Lol7o0hihMU/0.jpg" alt="5-4 What is Deep Learning? (1)" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-5 A Word of Caution About "Neural"
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=dFiIve3NFwo"> 
+<img src="https://img.youtube.com/vi/dFiIve3NFwo/0.jpg" alt="5-5 A Word of Caution About "Neural"" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-6 Characteristics of Deep Learning
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=NcEP9T0cDuU"> 
+<img src="https://img.youtube.com/vi/NcEP9T0cDuU/0.jpg" alt="5-6 Characteristics of Deep Learning" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-7 Benefits of Deep Learning
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=Y5Ysf7q-Y9M"> 
+<img src="https://img.youtube.com/vi/Y5Ysf7q-Y9M/0.jpg" alt="5-7 Benefits of Deep Learning" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-8 Applications of Deep Learning
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=B8hmwP1aCic"> 
+<img src="https://img.youtube.com/vi/B8hmwP1aCic/0.jpg" alt="5-8 Applications of Deep Learning" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-9 Walkthrough: Train a Simple Neural Net
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=Tt23S02LP6g"> 
+<img src="https://img.youtube.com/vi/Tt23S02LP6g/0.jpg" alt="5-9 Walkthrough: Train a Simple Neural Net" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-10 A Review of Approaches to Machine Learning
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=N86yJ1UP5s8"> 
+<img src="https://img.youtube.com/vi/N86yJ1UP5s8/0.jpg" alt="5-10 A Review of Approaches to Machine Learning" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-11 Specialized Cases of Model Training
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=urQbSmviMx4"> 
+<img src="https://img.youtube.com/vi/urQbSmviMx4/0.jpg" alt="5-11 Specialized Cases of Model Training" style="width:100%;"> 
+ </a> 
+ </div>
+
