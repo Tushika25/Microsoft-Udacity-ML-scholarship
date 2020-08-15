@@ -115,16 +115,10 @@ Link: https://deeplearningcourses.com/c/deep-learning-prerequisites-the-numpy-st
 ## Team
 > Contributors/People
 - https://www.linkedin.com/in/divadugar
-- https://www.linkedin.com/in/nagaraj-amarnath
-- https://www.linkedin.com/in/swagatmohanty1996
-- https://www.linkedin.com/in/snehithallamraju
-- https://www.linkedin.com/in/m4n15h
 - https://www.linkedin.com/in/ananyay-ankit-657037103
-- https://www.linkedin.com/in/rutuja-kawade-6b7a8a171
 - https://www.linkedin.com/in/tushikasingh
 - https://www.linkedin.com/in/palak-rathi-b1a3a2170/
 - https://www.linkedin.com/in/shatakshi-pachori-a107a9179/
-- https://www.linkedin.com/in/divyanshi-parashar-a6332818b/
 - https://www.linkedin.com/in/aditichadha1/
 ---
 ## FAQ
