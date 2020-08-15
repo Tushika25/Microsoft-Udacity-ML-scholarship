@@ -114,12 +114,12 @@ Link: https://deeplearningcourses.com/c/deep-learning-prerequisites-the-numpy-st
 
 ## Team
 > Contributors/People
-- https://www.linkedin.com/in/divadugar
-- https://www.linkedin.com/in/ananyay-ankit-657037103
-- https://www.linkedin.com/in/tushikasingh
-- https://www.linkedin.com/in/palak-rathi-b1a3a2170/
-- https://www.linkedin.com/in/shatakshi-pachori-a107a9179/
-- https://www.linkedin.com/in/aditichadha1/
+- Diva Dugar https://www.linkedin.com/in/divadugar
+- Ananyay Ankit https://www.linkedin.com/in/ananyay-ankit-657037103
+- Tushika Singh https://www.linkedin.com/in/tushikasingh
+- Palak Rathi https://www.linkedin.com/in/palak-rathi-b1a3a2170/
+- Shatakshi Pachori https://www.linkedin.com/in/shatakshi-pachori-a107a9179/
+- Aditi Chadha https://www.linkedin.com/in/aditichadha1/
 ---
 ## FAQ
 
