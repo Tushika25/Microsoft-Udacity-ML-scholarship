@@ -783,3 +783,467 @@
  </a> 
  </div>
 
+#### 5-12 Similarity Learning
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=aW8ujYYtglg"> 
+<img src="https://img.youtube.com/vi/aW8ujYYtglg/0.jpg" alt="5-12 Similarity Learning" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-13 Recommender Systems
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=opL7imA2cjM"> 
+<img src="https://img.youtube.com/vi/opL7imA2cjM/0.jpg" alt="5-13 Recommender Systems" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-14 Walkthrough: Train a Simple Recommender
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=LWOe5jrngw8"> 
+<img src="https://img.youtube.com/vi/LWOe5jrngw8/0.jpg" alt="5-14 Walkthrough: Train a Simple Recommender" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-15 Walkthrough: Train a Simple Recommender (2)
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=3wl5n7JTjFk"> 
+<img src="https://img.youtube.com/vi/3wl5n7JTjFk/0.jpg" alt="5-15 Walkthrough: Train a Simple Recommender (2)" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-16 Text Classification
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=sUJ9yorV1V4"> 
+<img src="https://img.youtube.com/vi/sUJ9yorV1V4/0.jpg" alt="5-16 Text Classification" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-17 Training a Classification Model with Text
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=OYgDFnn4dGA"> 
+<img src="https://img.youtube.com/vi/OYgDFnn4dGA/0.jpg" alt="5-17 Training a Classification Model with Text" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-18 Training a Classification Model with Text (1)
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=uFjJeVXPkyw"> 
+<img src="https://img.youtube.com/vi/uFjJeVXPkyw/0.jpg" alt="5-18 Training a Classification Model with Text (1)" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-19 Walkthrough: Train a Simple Text Classifier
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=IoLpwQiTdPQ"> 
+<img src="https://img.youtube.com/vi/IoLpwQiTdPQ/0.jpg" alt="5-19 Walkthrough: Train a Simple Text Classifier" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-20 Walkthrough: Train a Simple Text Classifier (2)
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=WYF7HnRR1rs"> 
+<img src="https://img.youtube.com/vi/WYF7HnRR1rs/0.jpg" alt="5-20 Walkthrough: Train a Simple Text Classifier (2)" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-21 Feature Learning
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=FZFgoHtdnpE"> 
+<img src="https://img.youtube.com/vi/FZFgoHtdnpE/0.jpg" alt="5-21 Feature Learning" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-22 Applications of Feature Learning
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=LGTdscqTl4E"> 
+<img src="https://img.youtube.com/vi/LGTdscqTl4E/0.jpg" alt="5-22 Applications of Feature Learning" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-23 Feature Learning | Image Classification with Convolutional Neural Networks (CNNs)
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=DMJ2erBuWQM"> 
+<img src="https://img.youtube.com/vi/DMJ2erBuWQM/0.jpg" alt="5-23 Feature Learning | Image Classification with Convolutional Neural Networks (CNNs)" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-24 Feature Learning | Image Search with Autoencoders
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=JxFYhiIxllg"> 
+<img src="https://img.youtube.com/vi/JxFYhiIxllg/0.jpg" alt="5-24 Feature Learning | Image Search with Autoencoders" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-25 Anomaly Detection
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=xFSa2FgkJTE"> 
+<img src="https://img.youtube.com/vi/xFSa2FgkJTE/0.jpg" alt="5-25 Anomaly Detection" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-26 Applications of Anomaly Detection
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=htPzXY6fVrg"> 
+<img src="https://img.youtube.com/vi/htPzXY6fVrg/0.jpg" alt="5-26 Applications of Anomaly Detection" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-27 Example of Anomaly Detection
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=z0ZtPmBJVYY"> 
+<img src="https://img.youtube.com/vi/z0ZtPmBJVYY/0.jpg" alt="5-27 Example of Anomaly Detection" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-28 Forecasting
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=B0Jt1njlV6s"> 
+<img src="https://img.youtube.com/vi/B0Jt1njlV6s/0.jpg" alt="5-28 Forecasting" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-29 Types of Forecasting Algorithms
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=FVwZQ8MR2hc"> 
+<img src="https://img.youtube.com/vi/FVwZQ8MR2hc/0.jpg" alt="5-29 Types of Forecasting Algorithms" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-30 Walkthrough: Forecasting
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=A_o7iinfabQ"> 
+<img src="https://img.youtube.com/vi/A_o7iinfabQ/0.jpg" alt="5-30 Walkthrough: Forecasting" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 5-31 Lesson Summary
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=qYJ6kjgzOVI"> 
+<img src="https://img.youtube.com/vi/qYJ6kjgzOVI/0.jpg" alt="5-31 Lesson Summary" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-0 Lesson Overview
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=hoGKdgb8g7M"> 
+<img src="https://img.youtube.com/vi/hoGKdgb8g7M/0.jpg" alt="6-0 Lesson Overview" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-1 Managed Services for Machine Learning
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=vVZcGHAMOqY"> 
+<img src="https://img.youtube.com/vi/vVZcGHAMOqY/0.jpg" alt="6-1 Managed Services for Machine Learning" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-2 Compute Resources | Training Compute
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=bif1io4cNQQ"> 
+<img src="https://img.youtube.com/vi/bif1io4cNQQ/0.jpg" alt="6-2 Compute Resources | Training Compute" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-3 Compute Resources | Inferencing Compute
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=SOPDkh9P-5I"> 
+<img src="https://img.youtube.com/vi/SOPDkh9P-5I/0.jpg" alt="6-3 Compute Resources | Inferencing Compute" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-4 Walkthrough: Managing Compute
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=q7RRdfwTWEA"> 
+<img src="https://img.youtube.com/vi/q7RRdfwTWEA/0.jpg" alt="6-4 Walkthrough: Managing Compute" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-5 Walkthrough: Managing Compute
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=q7RRdfwTWEA"> 
+<img src="https://img.youtube.com/vi/q7RRdfwTWEA/0.jpg" alt="6-5 Walkthrough: Managing Compute" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-6 Managed Notebook Environments
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=ZF33SyTMGNA"> 
+<img src="https://img.youtube.com/vi/ZF33SyTMGNA/0.jpg" alt="6-6 Managed Notebook Environments" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-7 Managed Notebook Environments
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=YSWxHQsBK-U"> 
+<img src="https://img.youtube.com/vi/YSWxHQsBK-U/0.jpg" alt="6-7 Managed Notebook Environments" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-8 Basic Modeling
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=Ar5V4a0OBug"> 
+<img src="https://img.youtube.com/vi/Ar5V4a0OBug/0.jpg" alt="6-8 Basic Modeling" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-9 Basic Modeling | Experiments
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=PNKjNd0uJSI"> 
+<img src="https://img.youtube.com/vi/PNKjNd0uJSI/0.jpg" alt="6-9 Basic Modeling | Experiments" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-10 Basic Modeling | Runs
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=oADXOnCXVNg"> 
+<img src="https://img.youtube.com/vi/oADXOnCXVNg/0.jpg" alt="6-10 Basic Modeling | Runs" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-11 Basic Modeling | Models
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=dRB4fj3LD4o"> 
+<img src="https://img.youtube.com/vi/dRB4fj3LD4o/0.jpg" alt="6-11 Basic Modeling | Models" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-12 Basic Modeling | Model Registry
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=wWODHPbb8no"> 
+<img src="https://img.youtube.com/vi/wWODHPbb8no/0.jpg" alt="6-12 Basic Modeling | Model Registry" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-13 Walkthrough: Explore Experiments and Runs
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=S0pSSahJJIM"> 
+<img src="https://img.youtube.com/vi/S0pSSahJJIM/0.jpg" alt="6-13 Walkthrough: Explore Experiments and Runs" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-14 Advanced Modeling
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=f7uWcFzT-FI"> 
+<img src="https://img.youtube.com/vi/f7uWcFzT-FI/0.jpg" alt="6-14 Advanced Modeling" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-15 Machine Learning Pipelines
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=74ezKhozwY0"> 
+<img src="https://img.youtube.com/vi/74ezKhozwY0/0.jpg" alt="6-15 Machine Learning Pipelines" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-16 MLOps: Creating Automatic End-to-End Integrated Processes
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=sDp10jUg9Bk"> 
+<img src="https://img.youtube.com/vi/sDp10jUg9Bk/0.jpg" alt="6-16 MLOps: Creating Automatic End-to-End Integrated Processes" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-17 Operationalizing Models
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=RcRP0QDPqBc"> 
+<img src="https://img.youtube.com/vi/RcRP0QDPqBc/0.jpg" alt="6-17 Operationalizing Models" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-18 Real-time Inferencing
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=bM9wpLEE3YQ"> 
+<img src="https://img.youtube.com/vi/bM9wpLEE3YQ/0.jpg" alt="6-18 Real-time Inferencing" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-19 Batch Inferencing
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=5faQxutTO_g"> 
+<img src="https://img.youtube.com/vi/5faQxutTO_g/0.jpg" alt="6-19 Batch Inferencing" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-20 Walkthrough: Deploy a Model as a Webservice - 1
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=YRjFSMsOfBU"> 
+<img src="https://img.youtube.com/vi/YRjFSMsOfBU/0.jpg" alt="6-20 Walkthrough: Deploy a Model as a Webservice - 1" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-21 Walkthrough: Deploy a Model as a Webservice - 2
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=PV0o_NwgRzk"> 
+<img src="https://img.youtube.com/vi/PV0o_NwgRzk/0.jpg" alt="6-21 Walkthrough: Deploy a Model as a Webservice - 2" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-22 Walkthrough: Deploy a Model as a Webservice - 3
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=YzpvDRggb4Q"> 
+<img src="https://img.youtube.com/vi/YzpvDRggb4Q/0.jpg" alt="6-22 Walkthrough: Deploy a Model as a Webservice - 3" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-23 Programmatically Accessing Managed Services
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=69xItMGJ2p8"> 
+<img src="https://img.youtube.com/vi/69xItMGJ2p8/0.jpg" alt="6-23 Programmatically Accessing Managed Services" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-24 Walkthrough: Training and Deploying a Model from a Notebook Running in a Compute Instance
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=nOnJXN4XP1M"> 
+<img src="https://img.youtube.com/vi/nOnJXN4XP1M/0.jpg" alt="6-24 Walkthrough: Training and Deploying a Model from a Notebook Running in a Compute Instance" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 6-25 Lesson Summary
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=ybpXlQi_ZFI"> 
+<img src="https://img.youtube.com/vi/ybpXlQi_ZFI/0.jpg" alt="6-25 Lesson Summary" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 7-0 Lesson Overview
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=rRZ8UXCnqIc"> 
+<img src="https://img.youtube.com/vi/rRZ8UXCnqIc/0.jpg" alt="7-0 Lesson Overview" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 7-1 Modern AI: Challenges and Principles
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=T4tMKKfBUig"> 
+<img src="https://img.youtube.com/vi/T4tMKKfBUig/0.jpg" alt="7-1 Modern AI: Challenges and Principles" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 7-2 Microsoft AI Principles
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=UxGSdEHLdUU"> 
+<img src="https://img.youtube.com/vi/UxGSdEHLdUU/0.jpg" alt="7-2 Microsoft AI Principles" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 7-3 Model Transparency and Explainability - 1
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=SPpEwlCFjvQ"> 
+<img src="https://img.youtube.com/vi/SPpEwlCFjvQ/0.jpg" alt="7-3 Model Transparency and Explainability - 1" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 7-4 Model Transparency and Explainability - 2
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=q-cN7eqonkk"> 
+<img src="https://img.youtube.com/vi/q-cN7eqonkk/0.jpg" alt="7-4 Model Transparency and Explainability - 2" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 7-5 Walkthrough: Model Explainability - 1
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=QkOssW8N_u4"> 
+<img src="https://img.youtube.com/vi/QkOssW8N_u4/0.jpg" alt="7-5 Walkthrough: Model Explainability - 1" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 7-6 Walkthrough: Model Explainability - 2
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=B6iNfHxm-WM"> 
+<img src="https://img.youtube.com/vi/B6iNfHxm-WM/0.jpg" alt="7-6 Walkthrough: Model Explainability - 2" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 7-7 Model Fairness
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=xcVJsraX3o4"> 
+<img src="https://img.youtube.com/vi/xcVJsraX3o4/0.jpg" alt="7-7 Model Fairness" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 7-8 Model Fairness - Demo
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=D3KyjrsKJCI"> 
+<img src="https://img.youtube.com/vi/D3KyjrsKJCI/0.jpg" alt="7-8 Model Fairness - Demo" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 7-9 Lesson Summary
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=QpSKT_S4X3k"> 
+<img src="https://img.youtube.com/vi/QpSKT_S4X3k/0.jpg" alt="7-9 Lesson Summary" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 8-0 Course Conclusion
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=Gqw9cHfuLcc"> 
+<img src="https://img.youtube.com/vi/Gqw9cHfuLcc/0.jpg" alt="8-0 Course Conclusion" style="width:100%;"> 
+ </a> 
+ </div>
+
+#### 8-1 The Future and Importance of Machine Learning
+
+<div align="center"> 
+ <a href="https://www.youtube.com/watch?v=gxyK2DeGo38"> 
+<img src="https://img.youtube.com/vi/gxyK2DeGo38/0.jpg" alt="8-1 The Future and Importance of Machine Learning" style="width:100%;"> 
+ </a> 
+ </div>
+
