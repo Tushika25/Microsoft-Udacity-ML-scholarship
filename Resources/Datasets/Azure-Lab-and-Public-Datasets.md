@@ -237,3 +237,5 @@ https://azure.microsoft.com/en-us/services/open-datasets/catalog/
 ### UCI Machine Learning Repository:
 https://archive.ics.uci.edu/ml/datasets.php
 
+### 25 Excellent Machine Learning Open Datasets
+https://medium.com/@ODSC/25-excellent-machine-learning-open-datasets-940ca2124dfc
