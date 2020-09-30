@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/kuldeep27396//Microsoft-Udacity-ML-scholarship.svg)](http://hits.dwyl.com/kuldeep27396//Microsoft-Udacity-ML-scholarship)
+
 **Welcome to the United Repository!** 
 We hope you'll find the material on this repository helpful and we also hope you'll share your amazing material related to Data Science, Machine Learning, Deep Learning, Natural Language Processing, and Microsoft Azure here! The major motive of this repository is to help every interested learner may be a rookie or a master by sharing the knowledge we have acquired so far!! There are no such restrictions regarding the content you want to share likewise it can be informative PDFs, Videos (preferred that the videos aren't posted rather their links are uploaded), Codes, notes that we make while studying our #50daysofudacity, or anything that you think can be insightful or helpful. 
 Perks of contributing 😉👉 We'll be tagging you on Slack to appreciate your contribution towards learning!! 
