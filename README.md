@@ -1,5 +1,5 @@
 **Welcome to the United Repository!** 
-We hope that you find the material in this repository helpful and that you'll share your own amazing material related to Data Science, Machine Learning, Deep Learning, Natural Language Processing, and Microsoft Azure! The main goal of this repository is to help every interested learner, be they rookie or master, by sharing the knowledge we as a group have acquired so far!! There are no restrictions regarding the content that you share; it can be informative PDFs, videos (we prefer that you just post the link rather than uploading the actual video), code, notes that you made while studying our #50daysofudacity, or anything that you think would be insightful or helpful. 
+We hope that you find the material in this repository helpful and that you'll share your amazing material related to Data Science, Machine Learning, Deep Learning, Natural Language Processing, and Microsoft Azure! The main goal of this repository is to help every interested learner, be they rookie or master, by sharing the knowledge we as a group have acquired so far!! There are no restrictions regarding the content that you share; it can be informative PDFs, videos (we prefer that you just post the link rather than uploading the actual video), code, notes that you made while studying our #50daysofudacity, or anything that you think would be insightful or helpful. 
 Perks of contributing 😉👉 We'll be tagging you on Slack to show our appreciation for your contribution toward learning!! 
 
 So, please join us in this amazing community of learning and sharing #weareintothistogether!
@@ -51,7 +51,7 @@ So, please join us in this amazing community of learning and sharing #weareintot
 ---
 ## PREREQUISITE
 
-- **New to GitHub??** Get yourself comforatable by following the tutorials below:
+- **New to GitHub??** Get yourself comfortable by following the tutorials below:
   1. GitHub using Git Bash: https://www.youtube.com/watch?v=SWYqp7iY_Tc&feature=youtu.be
   2. Github using GitHub Desktop: https://www.youtube.com/watch?v=77W2JSL7-r8&feature=youtu.be
   
@@ -60,8 +60,8 @@ So, please join us in this amazing community of learning and sharing #weareintot
 ---
 ## Documentation
 
-- Confused where to start using Tensorflow??
- Refer to https://www.tensorflow.org/learn so as to be confortable and start with tensorflow as per your requirements.
+- Confused about where to start using Tensorflow??
+ Refer to https://www.tensorflow.org/learn to be comfortable and start with TensorFlow as per your requirements.
  
 - Use https://docs.microsoft.com/en-us/learn/azure/ to learn and explore more on Azure.
 
@@ -133,3 +133,4 @@ Link: https://deeplearningcourses.com/c/deep-learning-prerequisites-the-numpy-st
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
+
