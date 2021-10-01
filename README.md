@@ -5,7 +5,7 @@ Perks of contributing 😉👉 We'll be tagging you on Slack to show our appreci
 So, please join us in this amazing community of learning and sharing #weareintothistogether!
 
 <a href="http://https://www.udacity.com/"><img src="https://udacity-email.s3-us-west-2.amazonaws.com/MicrosoftML_FoundationCourse_Scholarship.jpg" title="Udacity Microsoft ML Scholarship"></a>
-
+Clone by7 lahiru
 
 # [Microsoft-Udacity-ML-scholarship](https://www.udacity.com/scholarships/machine-learning-scholarship-microsoft-azure)
 
